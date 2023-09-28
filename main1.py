@@ -5,3 +5,4 @@ print("from pi1")
 =======
 print("from new directory")
 >>>>>>> refs/remotes/origin/master
+print("for new branch")
